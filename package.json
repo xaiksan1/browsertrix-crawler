@@ -11,7 +11,7 @@
     "test": "yarn node --experimental-vm-modules $(yarn bin jest)"
   },
   "dependencies": {
-    "@novnc/novnc": "1.4.0-beta",
+    "@novnc/novnc": "1.4.0",
     "abort-controller": "^3.0.0",
     "browsertrix-behaviors": "^0.4.2",
     "get-folder-size": "^4.0.0",
