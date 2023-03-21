@@ -15,7 +15,7 @@
     "abort-controller": "^3.0.0",
     "browsertrix-behaviors": "^0.4.2",
     "get-folder-size": "^4.0.0",
-    "ioredis": "^4.27.1",
+    "ioredis": "^4.28.5",
     "js-yaml": "^4.1.0",
     "minio": "7.0.26",
     "puppeteer-cluster": "github:ikreymer/puppeteer-cluster#async-job-queue",
