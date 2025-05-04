@@ -2,3 +2,5 @@ pywb>=2.7.3
 uwsgi
 wacz>=0.4.8
 requests[socks]
+gevent>=25.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
